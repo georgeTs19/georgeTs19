@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Georgios!  
+# 👋 Hey, I’m George!  
 
 📊 **Data Enthusiast | Digital Solutions Builder | AI Curious**  
 
