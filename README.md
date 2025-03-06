@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I’m Georgios!  
 
-<!--
-**georgeTs19/georgeTs19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Enthusiast | Digital Solutions Builder | AI Curious**  
 
-Here are some ideas to get you started:
+I’m passionate about transforming raw data into meaningful insights! With a strong foundation in **Python, SQL, and Qlik**, I enjoy diving deep into datasets, uncovering patterns, and building visualizations that tell compelling stories.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me  
+I am currently pursuing my **second master's degree in Information Systems** after completing my MSc in **Data Analytics and Business Economics**. My goal is to deepen my understanding of **management, digitalization, and how technology can be leveraged to generate valuable insights**. I am particularly interested in the intersection of **data, business, and technology**, exploring ways to optimize decision-making through advanced analytics and digital transformation.  
+
+Beyond my academic journey, I am continuously expanding my knowledge in **technology, AI, and data science**, staying up to date with the latest trends and innovations. I am always eager to explore new tools, techniques, and methodologies that drive smarter, data-driven solutions.  
+
+## 💡 Tech Stack & Interests  
+- 🐍 Python (Pandas, NumPy, Scikit-learn)  
+- 🗄 SQL (query optimization, database design)  
+- 📊 Data Visualization (Qlik, Matplotlib, Seaborn)  
+- 🛠 Git for version control  
+- 🤖 AI & Machine Learning applications in business  
+
+## 🏀 Beyond Data  
+I’m a huge **basketball** fan, love the thrill of **F1 racing**, and I’m always looking for my next travel adventure. Exploring new places and cultures keeps me inspired!  
+
+📫 **Let’s connect:** gtsoupras19@gmail.com
