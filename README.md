@@ -12,7 +12,7 @@ Beyond my academic journey, I am continuously expanding my knowledge in **techno
 ## 💡 Tech Stack & Interests  
 - 🐍 Python (Pandas, NumPy, Scikit-learn)  
 - 🗄 SQL (query optimization, database design)  
-- 📊 Data Visualization (Qlik, Matplotlib, Seaborn)  
+- 📊 Data Visualization (PowerBI(DAX), Qlik, Matplotlib, Seaborn)  
 - 🛠 Git for version control  
 - 🤖 AI & Machine Learning applications in business  
 
