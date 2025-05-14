@@ -1,6 +1,6 @@
 # 👋 Hey, I’m George!  
 
-📊 **Data Enthusiast | Digital Solutions Builder | AI Curious**  
+📊 **Data Analyst| Data Enthusiast | AI Curious**  
 
 I’m passionate about transforming raw data into meaningful insights! With a strong foundation in **Python, SQL, and Qlik**, I enjoy diving deep into datasets, uncovering patterns, and building visualizations that tell compelling stories.  
 
